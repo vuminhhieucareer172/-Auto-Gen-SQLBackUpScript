@@ -1,0 +1,4 @@
+enum34
+future
+mssql-scripter
+pkg_resources
